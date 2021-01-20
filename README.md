@@ -3,3 +3,5 @@
 
 ## The following code displays the employee name and department name by retrieving
 ![Alt text](/screen_shots/Screenshot_1.png?raw=true "Simple Code on Pig")
+
+Note: The CSV file should be in the same diretory where you are running the code.
