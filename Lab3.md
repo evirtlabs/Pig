@@ -10,3 +10,12 @@ data, it will take so much time to display the data on the console.
 
 ### Result
 ![Alt text](/screen_shots/Screenshot_Lab2_3.png?raw=true "Simple Code on Pig")
+
+### Result
+![Alt text](/screen_shots/Screenshot_Lab2_4.png?raw=true "Simple Code on Pig")
+
+### Result
+![Alt text](/screen_shots/Screenshot_Lab2_5.png?raw=true "Simple Code on Pig")
+
+### Result
+![Alt text](/screen_shots/Screenshot_Lab2_6.png?raw=true "Simple Code on Pig")
