@@ -45,3 +45,10 @@ Download data from /data/movies_data.csv
 #### dump count_by_year;
 ![Alt text](/screen_shots/Screenshot_Lab5_14.png?raw=true "Simple Code on Pig")
 
+### List all the movies in the ascending order of year.
+![Alt text](/screen_shots/Screenshot_Lab5_15.png?raw=true "Simple Code on Pig")
+
+### Verify the Results
+![Alt text](/screen_shots/Screenshot_Lab5_16.png?raw=true "Simple Code on Pig")
+
+
