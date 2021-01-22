@@ -37,3 +37,11 @@ Download data from /data/movies_data.csv
 
 ### Verify the Results
 ![Alt text](/screen_shots/Screenshot_Lab5_12.png?raw=true "Simple Code on Pig")
+
+### List the years and the number of movies released each year.
+![Alt text](/screen_shots/Screenshot_Lab5_13.png?raw=true "Simple Code on Pig")
+
+### Verify the Results
+#### dump count_by_year;
+![Alt text](/screen_shots/Screenshot_Lab5_14.png?raw=true "Simple Code on Pig")
+
