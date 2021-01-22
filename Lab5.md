@@ -1,6 +1,6 @@
 ## Pig Operations Lab
 
-Download data from /data/student.csv
+Download data from /data/movies_data.csv
 
 ### Upload data in hdfs
 ![Alt text](/screen_shots/Screenshot_Lab5_1.png?raw=true "Simple Code on Pig")
