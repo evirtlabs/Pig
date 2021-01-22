@@ -1,17 +1,12 @@
-## Select unique rows - map reduce
-![Alt text](/screen_shots/screen_shot_Lab2_1?raw=true "Simple Code on IPython Notebooks")
+Developers can insert a dump line at any step in the Pig Latin code to view input data
+at that particular step. All the data is displayed on the screen. So, if a relation has large
+data, it will take so much time to display the data on the console.
 
-## Select with UDF, IF, and CASE WHEN
-![Alt text](/screen_shots/screen_shot_Lab2_2?raw=true "Simple Code on IPython Notebooks")
+### Below is the data that we are using in the code
+![Alt text](/screen_shots/Screenshot_Lab2_1?raw=true "Simple Code on Pig")
 
-## Nested SELECT after the FROM
-![Alt text](/screen_shots/screen_shot_Lab2_3?raw=true "Simple Code on IPython Notebooks")
+### The following code displays the employee name and department name by retrieving
+![Alt text](/screen_shots/Screenshot_Lab2.png?raw=true "Simple Code on Pig")
 
-## Nest SELECT using CTE
-![Alt text](/screen_shots/screen_shot_Lab2_4?raw=true "Simple Code on IPython Notebooks")
-
-## Select with expression
-![Alt text](/screen_shots/screen_shot_Lab2_5?raw=true "Simple Code on IPython Notebooks")
-
-## Filter data with limit
-![Alt text](/screen_shots/screen_shot_Lab2_6?raw=true "Simple Code on IPython Notebooks")
+### Result
+![Alt text](/screen_shots/Screenshot_Lab2_2?raw=true "Simple Code on Pig")
