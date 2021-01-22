@@ -3,10 +3,10 @@ at that particular step. All the data is displayed on the screen. So, if a relat
 data, it will take so much time to display the data on the console.
 
 ### Below is the data that we are using in the code
-![Alt text](/screen_shots/Screenshot_Lab2_1?raw=true "Simple Code on Pig")
+![Alt text](/screen_shots/Screenshot_Lab2_1.png?raw=true "Simple Code on Pig")
 
 ### The following code displays the employee name and department name by retrieving
-![Alt text](/screen_shots/Screenshot_Lab2.png?raw=true "Simple Code on Pig")
+![Alt text](/screen_shots/Screenshot_Lab2_2.png?raw=true "Simple Code on Pig")
 
 ### Result
-![Alt text](/screen_shots/Screenshot_Lab2_2?raw=true "Simple Code on Pig")
+![Alt text](/screen_shots/Screenshot_Lab2_3.png?raw=true "Simple Code on Pig")
