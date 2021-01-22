@@ -51,4 +51,16 @@ Download data from /data/movies_data.csv
 ### Verify the Results
 ![Alt text](/screen_shots/Screenshot_Lab5_16.png?raw=true "Simple Code on Pig")
 
+### 8. List all the movies in the descending order of year.
+![Alt text](/screen_shots/Screenshot_Lab5_17.png?raw=true "Simple Code on Pig")
+
+### Verify the Results
+![Alt text](/screen_shots/Screenshot_Lab5_18.png?raw=true "Simple Code on Pig")
+
+### 9. Use the LIMIT keyword to get only a limited number for results from relation.
+![Alt text](/screen_shots/Screenshot_Lab5_19.png?raw=true "Simple Code on Pig")
+
+### Verify the Results
+![Alt text](/screen_shots/Screenshot_Lab5_20.png?raw=true "Simple Code on Pig")
+
 
