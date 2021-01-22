@@ -1,11 +1,11 @@
-Developers can insert a dump line at any step in the Pig Latin code to view input data
-at that particular step. All the data is displayed on the screen. So, if a relation has large
-data, it will take so much time to display the data on the console.
+## Pig Operations Lab
 
-### Below is the data that we are using in the code
+Download data from /data/salesjan2009/salesjan2009.csv
+
+### Upload data in hdfs
 ![Alt text](/screen_shots/Screenshot_Lab2_1.png?raw=true "Simple Code on Pig")
 
-### The following code displays the employee name and department name by retrieving
+### Load data in salesTable variable, Group By Country, Count by Coutry and Store Count By Country in pig_output_sales folder.
 ![Alt text](/screen_shots/Screenshot_Lab2_2.png?raw=true "Simple Code on Pig")
 
 ### Result
