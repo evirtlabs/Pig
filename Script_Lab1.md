@@ -1,5 +1,7 @@
 ## Executing script from command line
 
+### Refer the script file for this code here /pig_scripts/script_1.pig
+
 ### Run pig in local mode
 ![Alt text](/screen_shots/Screenshot_Lab6_1.png?raw=true "Simple Code on Pig")
 
